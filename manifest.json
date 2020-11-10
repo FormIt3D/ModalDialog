@@ -1,0 +1,12 @@
+{
+    "PluginName": "Modal HTML Dialog UI",
+    "PluginDescription": "Creates a modal dialog UI that displays an HTML page which can generate FormIt geometry.",
+    "PluginType": "Dialog",
+    "Scripts": [
+    ],
+    "DialogBox": "https://formit3d.github.io/HelloBlockAsync/index.html",
+    "DialogBoxGUID": "53baa9e2-b293-4b1b-a74d-eb554d746013",
+    "DialogBoxWidth": 300,
+    "DialogBoxHeight": 300,
+    "DialogBoxType": "Modal"
+}
